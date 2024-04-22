@@ -1,0 +1,42 @@
+body{
+background: #6A9113;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #141517, #6A9113);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #141517, #6A9113); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container {
+    width: 80%;
+    caret-color: white;
+    margin: 0 auto;
+    padding: 20px;
+    background: #6A9113;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #141517, #6A9113);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #141517, #6A9113); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.galeria img{
+    width: 200px;
+    height: 200px;
+}
+header {
+    padding: 10px 0;
+}
+
+.logo img {
+    max-width: max-content;
+    max-height: max-content;
+    align-content: center;
+}
+
+main {
+    padding: 20px 0;
+}
+
+footer {
+    padding: 10px 0;
+    text-align: left;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
